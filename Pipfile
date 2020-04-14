@@ -1,0 +1,11 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = "true"
+name = "pypi"
+
+[dev-packages]
+pytest = "==5.0.1"
+
+[packages]
+pandas = "==0.25.3"
+pyarrow = "==0.15.1"
