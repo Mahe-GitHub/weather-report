@@ -20,7 +20,7 @@ This project reports hottest day, Temperature and Region for weather report file
  
  - From the command line, navigate to the root of the project
  - Run `pipenv shell`
- - set PYTHONPATH=<root of the project>
+ - set PYTHONPATH=`root of the project`
  - navigate to `src\weather`
  - Run `python main.py`
  
